@@ -30,3 +30,15 @@
 *.exe
 *.out
 *.app
+
+#unreal
+*/Build
+*/Binaries
+*/DerivedDataCache
+*/Intermediate
+*/Saved
+*_BuiltData.uasset
+BuildingEscape/Content/StarterContet
+
+#Visual Studio Generated Files
+*.VC.db
